@@ -1,5 +1,5 @@
  
-
+This link plays the game. Jank is very much to be expected. 
 
 > Open this page at [https://daddy-gambit.github.io/penguin-incident-release/](https://daddy-gambit.github.io/penguin-incident-release/)
 
