@@ -14556,6 +14556,7 @@ let hasStick = false
 let Alter_activated = false
 let waveCheck = false
 let attacking = false
+music.stopAllSounds()
 attacking = false
 waveCheck = false
 Alter_activated = false
